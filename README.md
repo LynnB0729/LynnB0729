@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LynnB0729
-- 👀 I’m interested in learning to code, the metaverse & web3, digital fashion and all things NFT. 
-- 🌱 I’m currently learning basic front end web development.
-- 💞️ I’m looking to collaborate on learning, learning and more learning. 
+- 👀 I’m interested in HTML, CSS, Javascript, the metaverse & web3, digital fashion and all things NFT. 
+- 🌱 I’m currently a student at OSU UX/UI Design Bootcamp
+- 💞️ I’m looking to find a future position as a UX/UI Developer. 
 - 📫 How to reach me simplylynnhandmade@gmail.com
 
 <!---
