@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LynnB0729
-- 👀 I’m interested in HTML, CSS, Javascript, the metaverse & web3, digital fashion and all things NFT. 
-- 🌱 I’m currently a student at OSU UX/UI Design Bootcamp
-- 💞️ I’m looking to find a future position as a UX/UI Developer. 
+- 👀 I’m interested in HTML, CSS, Javascript, AI art & ChatGPT
+- 🌱 I’m currently a Marketing Coordinator for Nachurs Alpine Solutions
 - 📫 How to reach me simplylynnhandmade@gmail.com
 
 <!---
